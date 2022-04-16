@@ -2,9 +2,15 @@
 
 This will be the github page for myself, where I would write and upload projects, ideas etc.
 
-The site is still currently under construction and would probably update within 3 months.
+The site is still currently under construction and would probably update within 3 months(or so).
 
-<iframe src="web_first_raw.gif" width="50%">
+<iframe src="web_first_raw.gif">
+
+## Projects
+
+### Circuit Analysis Program (stopped maintaining)
+
+
 
 ### Contact Me
 
